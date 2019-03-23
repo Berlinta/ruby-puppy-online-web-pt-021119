@@ -17,6 +17,6 @@ class Dog
     @@all
   end
   
-  puts Dog.all
 
 end
+
