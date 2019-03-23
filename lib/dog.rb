@@ -15,7 +15,7 @@ class Dog
   
   def self.all
     @@all
-    puts Dog.all
+  Dog.all
   end
 
 end
