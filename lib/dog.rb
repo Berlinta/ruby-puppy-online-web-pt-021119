@@ -19,3 +19,4 @@ class Dog
   
 end
 
+Dog.all
