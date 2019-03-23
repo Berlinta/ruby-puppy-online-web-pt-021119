@@ -17,6 +17,5 @@ class Dog
     @@all
   end
   
-  Dog.all
-
 end
+
